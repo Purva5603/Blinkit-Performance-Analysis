@@ -27,6 +27,10 @@ It operates through a network of **dark stores** and delivers across Tier 1 to T
 - Frozen and snack food categories were among the top-selling products.
 - Medium-sized outlets showed the highest contribution to total sales.
 
+##  Dataset used
+
+  <a href=https://github.com/Purva5603/Blinkit-Performance-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx> Dataset </a>
+
 
 ##  Tools Used
 
